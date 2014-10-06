@@ -6,10 +6,10 @@ Super Market Check Out Demo in C# Console
 -------------------------------------------------------
 SIT131 Assignment 2		
 
-Description	                                                          Out of	Mark
+Description	                                                          Out of Mark
 QUESTION 1		
-Object-oriented concepts applied appropriately throughout program	        5	    5
-Inheritance used appropriately for creating item types	                  3	    3
+Object-oriented concepts applied appropriately throughout program	        5	  5
+Inheritance used appropriately for creating item types	                  3	  3
 Polymorphism properly exploited in solution	                              3	    3
 Main creates at least five different types	                              5	    5
 Main method only coordinates execution, does not provide functionality	  2	    2
