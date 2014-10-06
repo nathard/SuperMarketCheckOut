@@ -16,9 +16,9 @@ Appropriately defined class representing individual grocery items	              
 Appropriately defined class representing individual produce items	              2	2
 Appropriately defined class representing weighed produce items	                2	2
 Appropriately defined class representing individual meat items	                2	2
-Appropriately defined class representing weighed meat items	                    2	2
-Report formatted appropriately as per Workbook Section 4.8	                 5	5
-Report contains appropriate detail for each item	                           5	5
+Appropriately defined class representing weighed meat items	                2	2
+Report formatted appropriately as per Workbook Section 4.8	               5	5
+Report contains appropriate detail for each item	                         5	5
 Items on receipt divided by exploiting data types, not by testing types	  	        0
 QUESTION 2		
 Reasonable discussion of overall development of the program           	        2	2
