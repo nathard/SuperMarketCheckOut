@@ -22,7 +22,7 @@ Report contains appropriate detail for each item	                              5
 Items on receipt divided by exploiting data types, not by testing types	  	      0
 QUESTION 2		
 Reasonable discussion of overall development of the program           	        2	2
-Reasonable discussion of application of inheritance in your solution	          2	2
+Reasonable discussion of application of inheritance in your solution	      2	2
 Reasonable discussion of writing invoice/receipt functionality	                2	2
 Reasonable discussion of application of other object-oriented concepts	        2	2
 Reasonable discussion of extensibility to support additional data elements	2	2
