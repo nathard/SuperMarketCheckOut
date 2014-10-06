@@ -10,7 +10,7 @@ Object-oriented concepts applied appropriately throughout program	        5	5
 Inheritance used appropriately for creating item types	                        3	3
 Polymorphism properly exploited in solution	                                3	3
 Main creates at least five different types	                                5	5
-Main method only coordinates execution, does not provide functionality	      2	2
+Main method only coordinates execution, does not provide functionality	        2	2
 Class defined to build a receipt/invoice progressively	2	2
 Appropriately defined class representing individual grocery items	2	2
 Appropriately defined class representing individual produce items	2	2
