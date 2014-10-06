@@ -4,6 +4,8 @@ SuperMarketCheckOut
 Super Market Check Out Demo in C# Console
 
 -------------------------------------------------------
+SIT131 Assignment 2		
+
 Description	                                                            Out of	Mark
 QUESTION 1		
 Object-oriented concepts applied appropriately throughout program	        5	5
