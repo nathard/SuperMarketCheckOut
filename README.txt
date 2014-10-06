@@ -26,5 +26,5 @@ Reasonable discussion of application of inheritance in your solution	        2	2
 Reasonable discussion of writing invoice/receipt functionality	                2	2
 Reasonable discussion of application of other object-oriented concepts	        2	2
 Reasonable discussion of extensibility to support additional data elements	2	2
-Total	50	50
+Total	                                                          50	50
 
