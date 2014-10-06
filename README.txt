@@ -12,11 +12,11 @@ Polymorphism properly exploited in solution	                                3	3
 Main creates at least five different types	                                5	5
 Main method only coordinates execution, does not provide functionality	        2	2
 Class defined to build a receipt/invoice progressively	                        2	2
-Appropriately defined class representing individual grocery items	2	2
-Appropriately defined class representing individual produce items	2	2
-Appropriately defined class representing weighed produce items	2	2
-Appropriately defined class representing individual meat items	2	2
-Appropriately defined class representing weighed meat items	2	2
+Appropriately defined class representing individual grocery items	              2	2
+Appropriately defined class representing individual produce items	              2	2
+Appropriately defined class representing weighed produce items	                2	2
+Appropriately defined class representing individual meat items	                2	2
+Appropriately defined class representing weighed meat items	                    2	2
 Report formatted appropriately as per Workbook Section 4.8	5	5
 Report contains appropriate detail for each item	5	5
 Items on receipt divided by exploiting data types, not by testing types	 	0
